@@ -1,0 +1,1 @@
+.\run_synthea -p 1000 -a 30-80 --exporter.csv.export true --exporter.baseDirectory ./output/all_condition/ 
